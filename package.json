@@ -1,0 +1,29 @@
+{
+  "name": "curso-react",
+  "version": "1.0.0",
+  "description": "Curso de react, midudev",
+  "keywords": [
+    "react",
+    "jsx"
+  ],
+  "homepage": "https://github.com/AlejoRosasC2012/React#readme",
+  "bugs": {
+    "url": "https://github.com/AlejoRosasC2012/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejoRosasC2012/React.git"
+  },
+  "license": "ISC",
+  "author": "Alejandro Rosas Cuesta - AlejoRosasC",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^9.1.2"
+  }
+}
